@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Prediction using Deep Learning
+# 🧠 Brain Tumor Detection using Deep Learning
 
 This project is a simple **Brain Tumor Prediction system** built with **PyTorch + FastAPI**.  
 It allows you to upload an MRI scan image and get predictions whether a tumor is present or not.  
