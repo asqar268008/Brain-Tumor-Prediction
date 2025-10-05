@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/asqar268008/brain-tumor-prediction/main/sample.png" alt="Asqar Banner" width="100%"/>
+
 # 🧠 Brain Tumor Detection using Deep Learning
 
 This project is a simple **Brain Tumor Prediction system** built with **PyTorch + FastAPI**.  
